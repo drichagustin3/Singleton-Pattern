@@ -7,3 +7,7 @@ The Pag-ibig office implements a centralized queuing system for three help desk 
 Each help desk station has an option to reset the queuing number based on an inputted number, allowing flexibility in managing the queue during specific situations, such as reorganization or technical issues. This queuing system ensures a single centralized queue number for all help desk stations, while the reset option offers control and adjustment in exceptional circumstances.
 
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
+
+# UML Class Diagram
+
+<img width="1590" height="772" alt="image" src="https://github.com/user-attachments/assets/f3abfabe-2e14-4de4-b61c-5a870135592a" />
